@@ -1,5 +1,3 @@
-# BMHanna11yrs
-
 # 한나는 열한살체(BMHanna11yrs)
 
 <a href="https://wess.tistory.com/275" target="_blank">
